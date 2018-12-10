@@ -1,0 +1,3 @@
+576 183 $3.05 780 $2379.77
+"Total Players" "Unique Items" "Average Purchase Price" "Number of Purchases" "Total Revenue"
+576 183 $3.05 780 $2379.77
