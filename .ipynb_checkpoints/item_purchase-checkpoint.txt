@@ -1,0 +1,5 @@
+"Oathbreaker, Last Hope of the Breaking Storm" 12 4.23 50.76000000000002
+"Fiery Glass Crusader" 9 4.58 41.21999999999999
+"Extraction, Quickblade Of Trembling Hands" 9 3.53 31.770000000000003
+Nirvana 9 4.9 44.099999999999994
+"Pursuit, Cudgel of Necromancy" 8 1.02 8.159999999999998
